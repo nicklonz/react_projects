@@ -1,0 +1,21 @@
+/* src/styles/Board.css */
+
+.board {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .controls {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .balance {
+    margin-top: 20px;
+  }
+  
